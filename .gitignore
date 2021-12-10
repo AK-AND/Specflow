@@ -8,3 +8,6 @@
 /Poc.Surface.IntegrationTest/Poc.Surface.IntegrationTest.WebApi/obj
 /Poc.Surface.IntegrationTest/Poc.Surface.IntegrationTest.WebApi.Test/bin/Debug/net6.0
 /Poc.Surface.IntegrationTest/Poc.Surface.IntegrationTest.WebApi.Test/obj
+/Poc.Surface.IntegrationTest/.vs/Poc.Surface.IntegrationTest
+/Poc.Surface.IntegrationTest/Poc.Surface.IntegrationTest.WebApi.Test/Poc.Surface.IntegrationTest.WebApi.Test.csproj.user
+/Poc.Surface.IntegrationTest/Poc.Surface.IntegrationTest.WebApi.Test/Properties/launchSettings.json
